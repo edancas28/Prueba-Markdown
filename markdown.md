@@ -41,4 +41,4 @@ Las siguientes categorías pertenecen a nuestro mundo inventado.
 | Dragón del bosque | Naturaleza | Bosques antiguos | Ocultarse entre la vegetación |
 
 ## logo del clara
-![Dragón de escamas rojizas con las alas desplegadas sobre una montaña al amanecer](assets/claralogo.png)
+![Dragón de escamas rojizas con las alas desplegadas sobre una montaña al amanecer](assets/claralogo.jpg)
