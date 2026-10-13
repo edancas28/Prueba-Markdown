@@ -39,32 +39,3 @@ Las siguientes categorías pertenecen a nuestro mundo inventado.
 | Dragón de fuego | Fuego | Volcanes y cuevas cálidas | Expulsar llamaradas |
 | Dragón de hielo | Hielo | Cumbres nevadas | Crear una niebla congelante |
 | Dragón del bosque | Naturaleza | Bosques antiguos | Ocultarse entre la vegetación |
-
-## Un bestiario programado en Python
-
-Este programa recorre las fichas de las tres especies y muestra sus identificadores y elementos.
-
-```python
-dragones = [
-    {"id": "DRG-001", "nombre": "Dragón de fuego", "elemento": "Fuego"},
-    {"id": "DRG-002", "nombre": "Dragón de hielo", "elemento": "Hielo"},
-    {"id": "DRG-003", "nombre": "Dragón del bosque", "elemento": "Naturaleza"},
-]
-
-for dragon in dragones:
-    print(f"{dragon['id']} | {dragon['nombre']} | {dragon['elemento']}")
-```
-
-## De la fantasía al arte: el Instituto Smithsoniano
-
-Los dragones también se representan en obras de arte. El **Instituto Smithsoniano** ofrece un [recurso educativo sobre la pintura Eleven Dragons](https://asia-archive.si.edu/wp-content/uploads/2020/06/O26-F1919.173-Eleven-Dragons-FA.pdf), que muestra estas criaturas entre nubes, acantilados y olas. Es un punto de partida para comparar esas representaciones con las especies que hemos imaginado.
-
-La siguiente fotografía muestra el edificio del Instituto Smithsoniano, conocido como *Castle*. La imagen se carga directamente desde Wikimedia Commons.
-
-![Edificio del Instituto Smithsoniano, conocido como Castle, en Washington D. C.](https://upload.wikimedia.org/wikipedia/commons/d/da/Smithsonian_Castle%2C_Washington_DC.jpg)
-
-Fotografía de **Davemay3610**, del 3 de septiembre de 2016. Fuente: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Smithsonian_Castle,_Washington_DC.jpg). Licencia: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Sin modificaciones.
-
-## La siguiente aventura
-
-El bestiario puede crecer con nuevas especies, mapas y relatos. Su propósito es dar forma a un universo de dragones mediante descripciones, imágenes y un pequeño registro programado que cualquier explorador pueda consultar.
