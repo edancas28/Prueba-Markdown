@@ -39,3 +39,4 @@ Las siguientes categorías pertenecen a nuestro mundo inventado.
 | Dragón de fuego | Fuego | Volcanes y cuevas cálidas | Expulsar llamaradas |
 | Dragón de hielo | Hielo | Cumbres nevadas | Crear una niebla congelante |
 | Dragón del bosque | Naturaleza | Bosques antiguos | Ocultarse entre la vegetación |
+![Dragón de escamas rojizas con las alas desplegadas sobre una montaña al amanecer](assets/claralogo.png)
