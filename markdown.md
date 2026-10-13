@@ -41,4 +41,4 @@ Las siguientes categorías pertenecen a nuestro mundo inventado.
 | Dragón del bosque | Naturaleza | Bosques antiguos | Ocultarse entre la vegetación |
 
 ## logo del clara
-![Dragón de escamas rojizas con las alas desplegadas sobre una montaña al amanecer](assets/claralogo.jpg)
+![Instituto IES Clara del Rey](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/960px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
